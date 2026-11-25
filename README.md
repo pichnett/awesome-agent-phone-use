@@ -115,6 +115,7 @@ Virtual phones, local or hosted. Fine for most development and most benchmarks. 
 - [Genymotion](https://www.genymotion.com) - Commercial Android emulator, with a corresponding cloud and virtual-device offering, widely used in development and testing.
 - [Waydroid](https://github.com/waydroid/waydroid) - Container-based Android on a Linux host, using the host kernel rather than the official Android Studio emulator.
 - [Anbox Cloud](https://canonical.com/anbox-cloud) - Canonical's platform for running Android in system containers in the cloud, for streaming and automation.
+- [Clousd](https://clousd.com) - Hosted Android 12-17 virtual phones you control from the browser, over adb, a REST API, a Python SDK, or an MCP server ([SDK and MCP server](https://github.com/Clousd-Android/clousd-sdk)).
 - [Corellium](https://www.corellium.com) - Virtualized ARM-based iOS and Android devices, used heavily in security research. Not a conventional x86 Android emulator, and not a physical handset.
 
 ## Hardware
